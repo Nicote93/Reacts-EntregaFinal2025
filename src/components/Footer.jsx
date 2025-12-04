@@ -17,7 +17,7 @@ const Footer = () => {
       </ul>
       {/* Seccion de Copyright */}
       <p className={styles.copyright}>
-        © {anioActual} Skytecnology Store. Todos los derechos reservados.
+        © {anioActual} Skytecnology Store by Nicote93. Todos los derechos reservados.
       </p>
     </footer>
   );
